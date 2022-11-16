@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Katya, I'm a QA engineer
 Header
 
 About me
