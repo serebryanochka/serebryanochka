@@ -1,22 +1,19 @@
-### Hi there 👋 My name is Katya, I'm a QA engineer!
+### Hi there 👋 My name is Katya, I'm manual QA Engineer with 2+ years of experience in the field of software testing and knowledge of software QA methodologies, tools, understanding of the project life-cycle and QA processes. Experienced in Web and Mobile testing, finding different types of bugs and creating test artifacts. Self-motivated, proactive, responsible, creative. Efficient team player, able to multitask, flexible, goal-oriented and problem solving. Good negotiation and communication skills.
+   In future I’d like to develop in management, become a successful team leader, first of all i have to become the example for my team, unite the team and communicate a lot to delegating responsibilities, monitors team members' progress and supporting team members. 
+   I would love to work at a cutting-edge company that tries to make a positive impact in the world. Digitalize online services as much as possible and promote using of green technologies.
+I’m always working towards updating my skills and keeping up with the industry. 
+   I have a great family: a husband (by the way, he is also QA engineer) and 2 lovely daughters. In my free time I manage a blog, I run a YouTube channel about yoga and healthy lifestyle https://www.youtube.com/channel/UCa5-LqznNMVa4P8tt4TAOzQ
 
-My previous experience is not related to testing (worked as an economist, then a holiday organizer - quite successfully in both directions). 
-But later I realized that I have desire and motivation to learn something new.
-In everyday life, when I used different programs (an online store, an ad site, banking applications), 
-I noticed that the sites have errors, shortcomings, an inconvenient interface, and unfinished functionality. 
-This outraged me and even annoyed me: why can't it be made convenient and understandable for the user? 
-So I decided that I could do my bit and make life easier for users! Now I am in the process of learning software testing. 
-I  would like to be useful and plan to develop and grow in this direction.
+Best regards!
 
 My practice task (bug report):
 
 https://docs.google.com/spreadsheets/d/1XUdrGKocak-bYN-4mdFptvn9hKMY0ufd/edit#gid=1288656319
 
 Follow me
-https://www.linkedin.com/in/ekaterina-serebryanskaya/
+https://www.linkedin.com/in/serebryanskaya/
 
 Hobbies
 
 Guitar https://www.youtube.com/channel/UCGHb2WtoLKtxIW6dJNpNoXQ
 
-Yoga https://www.youtube.com/channel/UCa5-LqznNMVa4P8tt4TAOzQ
